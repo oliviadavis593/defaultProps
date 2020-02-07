@@ -1,2 +1,0 @@
-# defaultProps
-Created with CodeSandbox
